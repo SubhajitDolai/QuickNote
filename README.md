@@ -10,6 +10,10 @@
 - **Floating Action Button**: Create new notes effortlessly with a floating '+' button.
 - **Real-Time Updates**: Automatically sync and display changes in real-time using Firestore.
 
+### Download Links
+
+- **Android APK**: [Download APK](https://github.com/SubhajitDolai/QuickNote/releases/tag/v1.0.0)
+
 ## Screenshots
 
 <div style="display: flex; overflow-x: auto; gap: 10px; white-space: nowrap;">
